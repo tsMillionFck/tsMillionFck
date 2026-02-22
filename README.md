@@ -57,7 +57,7 @@
 
 ### `[05] UPLINK`
 * **LinkedIn:** [linkedin.com/in/tarunsalhan](https://linkedin.com/in/tarunsalhan)
-* **Portfolio:** [Your Portfolio Link]
+* **Portfolio:** [https://fastolio.vercel.app]
 * **Email:** [tarun.salhan.dev@gmail.com](mailto:tarun.salhan.dev@gmail.com)
 
 ---
